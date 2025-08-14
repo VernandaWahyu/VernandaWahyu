@@ -39,3 +39,6 @@
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
+
+#### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VernandaWahyu&show_icons=true&theme=transparent)
