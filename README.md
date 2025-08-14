@@ -40,6 +40,6 @@
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
-#### Stats
+<!-- #### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VernandaWahyu&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VernandaWahyu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VernandaWahyu&layout=compact) -->
